@@ -4,4 +4,4 @@ This repository contains the example code for the ESSLLI 2017 lecture on Embeddi
 
 The neural network implementation is based on the code in [this repository](https://github.com/Shawn1993/cnn-text-classification-pytorch).
 
-See the official course website for further information as well as links to the datasets used during the course.
+See the [official course website](https://cis.lmu.de/esslli2017) for further information as well as links to the datasets used during the course.
