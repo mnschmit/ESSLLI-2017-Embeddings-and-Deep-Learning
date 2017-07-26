@@ -4,8 +4,9 @@ def semantic_tests(word_vectors):
     most_similar = word_vectors.most_similar(
         positive=['woman', 'king'], negative=['man'], topn=3
     )
+    # woman + king - man = ?
     print(
-        "Man is to king as woman is to {}.".format(
+        "Man is to king as woman is to {}. (Top 3)".format(
             ', '.join(map(lambda t: t[0], most_similar))
         )
     )
