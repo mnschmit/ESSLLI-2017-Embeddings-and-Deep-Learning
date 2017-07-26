@@ -1,1 +1,5 @@
 # ESSLLI 2017 Embeddings and Deep Learning
+
+This repository contains the example code for the ESSLLI 2017 lecture on Embeddings and Deep Learning by Hinrich Schütze and Martin Schmitt.
+
+The neural network implementation is based on the code in [this repository](https://github.com/Shawn1993/cnn-text-classification-pytorch).
